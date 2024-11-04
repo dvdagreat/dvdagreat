@@ -43,19 +43,7 @@
 ### Follow me
 <div style="display: flex;">
   
-  <a href="https://www.facebook.com/DvsFreelance01" target="_blank">
-    <img src="https://user-images.githubusercontent.com/76647339/203836607-a0f06d26-43ab-4bcb-a5b1-ffc77ce86461.png" height="50px" width="50px" />
-  </a>
-
-  <a href="https://www.instagram.com/divyesh.ladva.dvs/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/76647339/203839351-889f2547-b43b-407f-87ce-be655696a00e.png" height="50px" width="50px" />
-  </a>
-  
-  <a href="https://twitter.com/DvsFreelance01" target="_blank">
-    <img src="https://user-images.githubusercontent.com/76647339/203840191-819324e5-740f-496d-80a6-4d6efb57c4b1.png" height="50px" width="50px" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/divyesh-ladva-4271091b7/" target="_blank">
+  <a href="https://www.linkedin.com/in/divyeshladva/" target="_blank">
     <img src="https://user-images.githubusercontent.com/76647339/203840592-2e0e5786-ce9a-447f-8202-245a99b7e5a9.png" height="50px" width="50px" />
   </a>
   
