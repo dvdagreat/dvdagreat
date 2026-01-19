@@ -15,6 +15,7 @@
 
 ### Programming Languages
 <div style="display: flex;">
+  <img src="[https://user-images.githubusercontent.com/76647339/203832967-8d688728-8f99-49c1-af82-eedcc3544398.png](https://img.icons8.com/?size=100&id=haeAxVQEIg0F&format=png&color=000000)" height="50px" width="50px" />
   <img src="https://user-images.githubusercontent.com/76647339/203832967-8d688728-8f99-49c1-af82-eedcc3544398.png" height="50px" width="50px" />
   <img src="https://user-images.githubusercontent.com/76647339/203834303-943768e2-7714-4e90-b86a-44a3123a9eb2.png" height="50px" width="50px" />
   <img src="https://user-images.githubusercontent.com/76647339/203834533-d918b18d-7e79-43d1-9359-af54424bf343.png" height="50px" width="50px" />
