@@ -27,7 +27,6 @@
 <div style="display: flex;">
   <img src="https://img.icons8.com/color/96/amazon-web-services.png" height="50px" width="50px" />&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/76647339/203835324-72cd7094-e385-4cdf-833d-162a0c1da42c.png" height="50px" width="50px" />&nbsp;
-  <img src="https://user-images.githubusercontent.com/76647339/203843248-dd3553af-eeae-487c-9af4-3a8f1e0e1d80.png" height="50px" width="50px" />
   <img src="https://user-images.githubusercontent.com/76647339/203843613-d0116aad-1b23-4bed-a20c-d15be5c696e8.png" height="50px" width="50px" />
   <img src="https://user-images.githubusercontent.com/76647339/203843700-3e7f88ea-7fd5-4d76-b1f8-71376b4f00e8.png" height="50px" width="50px" />
   <img src="https://user-images.githubusercontent.com/76647339/203843794-233c2cef-b207-484c-93b0-ac0fb9a1a5c1.png" height="50px" width="50px" />
