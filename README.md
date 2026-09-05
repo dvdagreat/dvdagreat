@@ -4,9 +4,7 @@
 
 - I love writing and managing clean code.
 
-- I'm currently learning cloud orcestration with Kubernetes and Containerization technologies.
-
-- I'm currently working at Tatvasoft, Ahmedabad as a Tech Lead/Team Leader
+- I'm currently working at Tatvasoft, Ahmedabad as a Tech Lead
 
 - I'm open to collaborate on open source projects
 
